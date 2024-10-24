@@ -26,6 +26,12 @@ Is developed from Bellota Text, but modified to be even more serious.
 
 Changelog for CSL Sans 2
 ————————————————————————————————
+
+=v1.2, Oct 24, 2024 (Cristiano Sobral)
++ Completed Greek support in Roman
++ Added Serbian & Bulgarian support for Cyrillic
++ Added ligatures for Ukrainian I/i (to prevent collision)
+
 =v1.0, Oct 13-17, 2024 (Cristiano Sobral)
 + New designs for M, Q, question & exclam marks, and others
 + Removed swashes from several lowercase glyphs
