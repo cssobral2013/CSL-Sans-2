@@ -27,7 +27,7 @@ Is developed from Bellota Text, but modified to be even more serious.
 Changelog for CSL Sans 2
 ————————————————————————————————
 
-=v1.2, Oct 24, 2024 (Cristiano Sobral)
+=v1.2-v1.3, Oct 24-29, 2024 (Cristiano Sobral)
 + Completed Greek support in Roman
 + Added Serbian & Bulgarian support for Cyrillic
 + Added ligatures for Ukrainian I/i (to prevent collision)
