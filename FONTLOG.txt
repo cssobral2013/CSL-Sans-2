@@ -27,10 +27,13 @@ Is developed from Bellota Text, but modified to be even more serious.
 Changelog for CSL Sans 2
 ————————————————————————————————
 
-=v1.2-v1.3, Oct 24-29, 2024 (Cristiano Sobral)
+=v1.2-v1.4, Oct 24-Nov 2, 2024 (Cristiano Sobral)
 + Completed Greek support in Roman
 + Added Serbian & Bulgarian support for Cyrillic
 + Added ligatures for Ukrainian I/i (to prevent collision)
++ Some adjusts in M, y, and eszet
++ New question mark made off of Erbarre (https://github.com/osp/osp.foundry.erbarre), then adapted
++ Added rvrn feature for some currencies
 
 =v1.0, Oct 13-17, 2024 (Cristiano Sobral)
 + New designs for M, Q, question & exclam marks, and others
