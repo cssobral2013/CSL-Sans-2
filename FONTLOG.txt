@@ -27,6 +27,10 @@ Is developed from Bellota Text, but modified to be even more serious.
 Changelog for CSL Sans 2
 ————————————————————————————————
 
+=v1.5, Nov 27, 2024 (Cristiano Sobral)
++ Some more tweaks in Q and question mark
++ New design for lowercase L
+
 =v1.2-v1.4, Oct 24-Nov 2, 2024 (Cristiano Sobral)
 + Completed Greek support in Roman
 + Added Serbian & Bulgarian support for Cyrillic
