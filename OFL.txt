@@ -1,6 +1,7 @@
 Copyright 2019 The Bellota Project Authors (https://github.com/kemie/Bellota-Font)
 Copyright 2010 The Erbarre Project Authors (https://github.com/osp/osp.foundry.erbarre)
-Copyright 2024 The CSL Sans 2 Project Authors (https://github.com/cssobral2013/CSL-Sans-2)
+Copyright 2011 The Bitter Project Authors (https://github.com/solmatas/BitterPro)
+Copyright 2025 The CSL Sans 2 Project Authors (https://github.com/cssobral2013/CSL-Sans-2)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

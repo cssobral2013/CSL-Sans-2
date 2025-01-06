@@ -29,7 +29,8 @@ Changelog for CSL Sans 2
 
 =v1.6, Jan 5, 2025 (Cristiano Sobral)
 + New tails in a and l
-+ d/m/n/p/r/u and related glyphs now have straight terminals
++ Lowercase d/m/n/p/r/u and related glyphs now have straight terminals
++ Imported figures from Bitter by Sol Matas
 
 =v1.5, Nov 27, 2024 (Cristiano Sobral)
 + Some more tweaks in Q and question mark
