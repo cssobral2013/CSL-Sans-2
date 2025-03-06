@@ -27,9 +27,11 @@ Is developed from Bellota Text, but modified to be even more serious.
 Changelog for CSL Sans 2
 ————————————————————————————————
 
-=v1.7, Jan 25, 2025 (Cristiano Sobral)
+=v1.7, Jan 25-Mar 6, 2025 (Cristiano Sobral)
 + Reverted to figures from Bellota
 + Lightened typographic color of degree
++ New design for cedilla
++ Some adjusts in y
 
 =v1.6, Jan 5, 2025 (Cristiano Sobral)
 + New tails in a and l
