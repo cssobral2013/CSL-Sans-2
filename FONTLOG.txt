@@ -26,6 +26,10 @@ Is developed from Bellota Text, but modified to be even more serious.
 
 Changelog for CSL Sans 2
 ————————————————————————————————
+=v1.10, Dec 19, 2025 (Cristiano Sobral)
++ New R
++ Redistributed weights to orthogonal
++ Reduced tabular figures' width to 586/1000
 
 =v1.7, Jan 25-Mar 6, 2025 (Cristiano Sobral)
 + Reverted to figures from Bellota
